@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Core 1</string>
+    <string name="score_btn">But</string>
+    <string name="steal_text">Voler</string>
+    <string name="reset_text">remet</string>
+    <string name="winner_text">VOUS AVAIS GAGNE!!</string>
+</resources>

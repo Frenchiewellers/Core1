@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Core 1</string>
+    <string name="score_btn">Score</string>
+    <string name="score_text" translatable="false">Score:</string>
+    <string name="steal_text">Steal</string>
+    <string name="reset_text">Reset</string>
+    <string name="winner_text">You have WON!!!</string>
+
+</resources>
